@@ -18,9 +18,14 @@ This is a simple, responsive blog website built using **HTML** and **CSS**. The 
 Here are some screenshots of the website:
 
 ### Blog Post
-![Blog Post](![Blog3](https://github.com/user-attachments/assets/f0b81d8d-d385-4f7a-a405-7c78f9fff4c3)
+![Blog Post]![blog1](https://github.com/user-attachments/assets/a3879975-68a8-4d22-8073-7728c48509df))
 ![Blog2](https://github.com/user-attachments/assets/75946edb-c23b-4c83-b747-a5b76d8a47ec)
-![blog1](https://github.com/user-attachments/assets/a3879975-68a8-4d22-8073-7728c48509df)
-)
+(![Blog3](https://github.com/user-attachments/assets/f0b81d8d-d385-4f7a-a405-7c78f9fff4c3)
+
+## Live Demo
+
+You can view the live demo of the website at the following link:
+
+[Live Demo](https://anusreeb03.github.io/Blog-Website/)
 
 
