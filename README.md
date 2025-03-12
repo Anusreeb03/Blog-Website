@@ -1,13 +1,20 @@
-Blog Website
-A simple, responsive blog page built using HTML and CSS. This project demonstrates how to create a clean and functional blog layout, featuring a navbar, main content area for blog posts, and a footer. 
-The design is fully responsive, adjusting smoothly for mobile and desktop devices.
+# Blog Website
 
-Features
-Responsive Design: The layout adjusts for different screen sizes, including mobile, tablet, and desktop.
-lean Layout: Focused on readability with simple navigation and an aesthetically pleasing design.
-Customizable: Easy to modify the structure and style of the page for your own needs.
+A simple and beautiful blog page built using **HTML** and **CSS**.
 
-Technologies Used
-HTML: Provides the structure and content for the blog page, such as the header, footer, and blog posts.
-CSS: Used for styling the page, creating a responsive layout, and customizing fonts, colors, and spacing.
+## 🚀 Features
+- Responsive design
+- Attractive layout
+- Easy to customize
+
+## 🛠 Technologies Used
+- **HTML** for structure
+- **CSS** for styling
+
+## 📸 Preview
+![Blog Page Preview](![blog1](https://github.com/user-attachments/assets/737717f3-04be-42bf-a33e-5889382202d9)
+)
+![Blog Page Preview](![Blog2](https://github.com/user-attachments/assets/038c6726-c30a-446f-b95f-3fa074eff1d1)
+)
+![Blog Page Preview](![Blog3](https://github.com/user-attachments/assets/bc2ed859-ed90-458e-a7fd-a40d4b895618))
 
